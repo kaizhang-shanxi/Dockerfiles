@@ -5,4 +5,12 @@
     <name>hbase.cluster.distributed</name>
     <value>true</value>
   </property>
+  <property>
+    <name>hbase.superuser</name>
+    <value>hbase, admin, yipush</value>
+  </property>
+  <property>
+    <name>hbase.rootdir</name>
+    <value>file:///home/yipush/hbase</value>
+  </property>
 </configuration>
